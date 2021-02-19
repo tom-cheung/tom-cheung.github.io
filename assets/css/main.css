@@ -2532,8 +2532,8 @@ input, select, textarea {
 		.image img {
 			border-radius: 4px;
 			display: block;
-			position: relative;
-			bottom: 50px;
+			position: relative; /* to adjust profile picture up*/
+			bottom: 50px; /* adjust profile picture up*/
 		}
 
 		.image.left {
