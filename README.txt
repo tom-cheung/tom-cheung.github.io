@@ -1,5 +1,8 @@
+# The Portfolio of Tom Cheung 
 
-Credits:
+Here you will find a brief summary about me, some of my projects and my contact information. Feel free to reach out! 
+
+This portfolio is made possible by:
 
 	Template: 
 		Landed by HTML5 UP (html5up.net)
