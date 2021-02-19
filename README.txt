@@ -1,4 +1,4 @@
-# The Portfolio of Tom Cheung 
+The Portfolio of Tom Cheung 
 
 Here you will find a brief summary about me, some of my projects and my contact information. Feel free to reach out! 
 
