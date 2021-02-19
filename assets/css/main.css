@@ -3531,6 +3531,29 @@ input, select, textarea {
 		background-attachment: scroll;
 	}
 
+	.contact-container {
+		display: flex;
+		justify-content: center;
+		transition: all 1.25s ease-in-out;
+	}
+
+	.label-information {
+		display: flex;
+		flex-direction: column;
+		text-align: left;
+		margin-left: 30px;
+	}
+
+	.contact-content {
+		margin-bottom: 10px;
+	}
+
+	.contact-container:hover {
+		color: black;
+		font-weight: bolder;
+		transform: scale(1.2);
+	}
+
 /* Footer */
 
 	#footer {
